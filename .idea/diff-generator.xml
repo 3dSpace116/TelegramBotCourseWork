@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DiffGenerationConfig">
+    <option name="sourceDbValue" value="432f920c-fa67-4732-85ba-48378246806e" />
+    <option name="sourceDiffType" value="DB" />
+    <option name="targetDbValue" value="432f920c-fa67-4732-85ba-48378246806e" />
+    <option name="updateChangeLogPath" value="src/main/resources/db/changelog/db.changelog-master.yaml" />
+    <option name="updateDbConnectionName" value="432f920c-fa67-4732-85ba-48378246806e" />
+  </component>
+</project>
